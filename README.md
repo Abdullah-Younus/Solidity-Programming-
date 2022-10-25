@@ -1,4 +1,4 @@
-# Solidity-Programming-
+# Solidity-Programming
 Write production-ready smart contracts for Ethereum blockchain with Solidity
 Solidity is contract-oriented programming language used for writing decentralized applications on Ethereum.
   1) Test and debug smart contracts with Truffle, Ganache, Remix, and MetaMask
